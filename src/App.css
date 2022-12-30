@@ -5,17 +5,23 @@
   box-sizing: border-box;
 }
 .carousel {
-  width:900px;
-  height:500px;
+  background-color:black;
+  align-items: center;
+  /* margin:auto; */
+}
+.carousel-inner > .item > img {
   margin: auto;
+  max-height:1763px;
+  width:auto;
 }
 .edu{
   display: 'block';
-    width: 300; 
+    width: 500; 
     padding: 10px;
 }
 button{
   border-style:none;
+   color:#c084fc;
 }
 .nav {
   padding: 10px;
