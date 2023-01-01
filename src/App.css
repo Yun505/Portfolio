@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+.Card{
+  width:450;
+}
+
 
 .blog-accordion {
   
