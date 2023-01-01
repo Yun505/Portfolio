@@ -6,6 +6,7 @@ import Card from 'react-bootstrap/Card';
 import Me from "./me.jpg";
 import GWC from "./gwc.jpg";
 import Hiking from "./hiking.jpg";
+import Capstone from "./capstone.jpg";
 import "./dist/output.css";
 
 export default function Home() {
@@ -57,6 +58,20 @@ export default function Home() {
                         <br></br>
                         <p className="text-white border-black inline-block rounded font-normal text-size-2xl bg-black py-1 px-1">
                             One of my favorite ways to destress with my friends.
+                        </p>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        src={Capstone}
+                        alt="Fourth Slide"
+                    />
+
+                    <Carousel.Caption>
+                        <h3 className="text-white border-black inline-block rounded bg-black py-1 px-1">Capstone</h3>
+                        <br></br>
+                        <p className="text-white border-black inline-block rounded font-normal text-size-2xl bg-black py-1 px-1">
+                            My teamates and I currently working on our capstone project. 
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
