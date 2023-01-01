@@ -3,8 +3,6 @@
 import Carousel from 'react-bootstrap/Carousel';
 import Accordion from 'react-bootstrap/Accordion';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
-// import { MDBAccordion, MDBAccordionItem } from 'mdb-react-ui-kit';
 import Me from "./me.jpg";
 import GWC from "./gwc.jpg";
 import Hiking from "./hiking.jpg";
