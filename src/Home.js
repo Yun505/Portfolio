@@ -31,7 +31,7 @@ export default function Home() {
                     <Carousel.Caption>
                         <h3 className="text-white border-black inline-block rounded bg-black py-1 px-1">Hi!</h3>
                         <br></br>
-                        <p className="text-white border-black inline-block rounded font-normal text-size-2xl bg-black py-1 px-1">I love to go to the beach in the Summer.</p>
+                        <p className="text-white border-black inline-block rounded font-normal text-size-2xl bg-black py-1 px-1">My favorite color is purple.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
