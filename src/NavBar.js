@@ -4,7 +4,7 @@ export default function NavBar() {
     return (
         <div>
             <nav className="nav">
-                <Link to="/">
+                <Link to="/home">
                     <p className="nav-item text-2xl font-semibold inline-block block border border-white rounded  py-2 px-4">Hayun Jung</p>
                 </Link>
                 <ul>
