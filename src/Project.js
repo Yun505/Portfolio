@@ -44,7 +44,7 @@ export default function Project() {
             </Card>
             <br></br>
             <Card className="hover:shadow-lg" style={{ width: '450', backgroundColor: '#e9d5ff' }}>
-                <iframe width="stretch" height="315" src="https://www.youtube.com/embed/1jkjqUn7ncQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="stretch" height="315" src="https://www.youtube.com/embed/JDNeyeTWXgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <Card.Body>
                     <Card.Title>Natto Obstacle Course</Card.Title>
                     <Card.Text>
@@ -85,7 +85,7 @@ export default function Project() {
             </Card>
             <br></br>
             <Card className="hover:shadow-lg" style={{ width: '450', backgroundColor: '#e9d5ff' }}>
-                <iframe width="stretch" height="315" src="https://www.youtube.com/embed/tuTCCPOBf8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="stretch" height="315" src="https://www.youtube.com/embed/xOyyNY_SQwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <Card.Body>
                     <Card.Title>BlackJack GUI</Card.Title>
                     <Card.Text>
