@@ -81,7 +81,7 @@ export default function Home() {
             <div className="edu">
                 <Accordion defaultActiveKey="0" flush>
                     <Card>
-                        <Accordion.Header><Card.Header>Contact Me:</Card.Header></Accordion.Header>
+                        <Accordion.Header className="text-xl"><Card.Header>Contact Me:</Card.Header></Accordion.Header>
                         <Accordion.Body>
                             <Card.Body>
                                 <Card.Text>

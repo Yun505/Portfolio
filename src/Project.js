@@ -31,8 +31,10 @@ export default function Project() {
                     <Card.Text>
                         <p>This was created for a unit review presentation in microeconomics to engage my classmates at the end of the lesson. During the presentation I reviewed why the question was wrong before moving on to the next one. The pictures are of BCA that I took and edited. There are 6 endings with the higher the ending number, the happier the ending. Penalty points do not correspond with ending numbers. The less penalty points you have, the better.
                         </p>
+                        <br></br>
                         <p>Goal: to get as many correct answers to win the heart of the textbook character like any other dating simulation
                         </p>
+                        <br></br>
                         <p>Wrong Answer: Takes player to  fitness center, the "dungeon" as BCA students call it + penalty point.
                         </p>
                     </Card.Text>
@@ -51,6 +53,7 @@ export default function Project() {
                         <p>One day, I was eating Natto and struggling to get some of the sticky strings out of my hair when I came up with this idea. The layout is that of the bowl where the player is a rice grain trying to navigate through the bowl without hitting the obstacles. Each obstacle slows down the player when hit but by different speeds. The player becomes red when they hit an obstacle.
                             There are two levels in this game and the second level has more obstacles + is faster.
                         </p>
+                        <br></br>
                         <p>Three obstacles: Sticky Natto, Natto, Sticky Strings</p>
                     </Card.Text>
                 </Card.Body>
@@ -67,7 +70,8 @@ export default function Project() {
                     <Card.Text>
                         <p>The user is able to sign up/into the GUI and can choose to get song recommendations by inputting a song into the system. The system will tell the user what genre it is in the console and give song recommendations through the model. The song recommendations will show up in the Previous Song Recommendations section. The user can also play or stop a file they chose to check if it's the right song.
                         </p>
-                        <p>Awarded: Most Technically Complex End of Year Project</p>
+                        <br></br>
+                        <p><b>Awarded:</b> Most Technically Complex End of Year Project</p>
                     </Card.Text>
                 </Card.Body>
                 <Card.Body  >
