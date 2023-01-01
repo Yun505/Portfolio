@@ -16,9 +16,9 @@ export default function Blog() {
             <br></br>
             <MDBAccordion flush initialActive={1}>
                 <MDBAccordionItem collapseId={1} headerTitle='Reborn Rich Kdrama 12/10/22' className="blog-accordion text-xl">
-                    <p>Recently, I've been binging Reborn Rich. It's really good not just becuase of my favorite actor(Song Joon Ki) being there,
+                    <p>Recently, I've been binging Reborn Rich. It's really good not just because of my favorite actor(Song Joon Ki) being there,
                         but the plot leaves me glued to the screen. I've been recommending it to everyone that likes Kdramas and I'm really glad
-                        they're releasing 3 episodes. I heard the book they based the story off is really good and I'm looking forward to reading it
+                        they're releasing 3 episodes a week. I heard the book they based the story off is really good and I'm looking forward to reading it
                         soon.
                     </p>
                     <p>This is kind of silly, but this show makes me want to learn stocks and invest more. My favorite character currently isn't who Song Joon Ki plays, but
@@ -77,8 +77,8 @@ export default function Blog() {
                     <br></br>
          
                     <p>Couldn't find a picture of a rainy day recently, so this one's a old picture that I liked. 
-                    As I was walking through the rain this morning, on my daily walk during first period, I couldn't help but to start writing
-                    a comparison of the umbrella to a character relationship in a current TV show I was watching.  </p>
+                    As I was walking through the rain this morning, I couldn't help but to start writing
+                    a comparison of the umbrella I was holding to a character relationship in a current TV show I was watching.  </p>
                     <br></br>
                     <p>You're like my umbrella, </p>
                     <p>hiding me from the pouring rain but not enough to completely cover me, just the perfect amount to let me have rain droplets
