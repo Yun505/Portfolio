@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f312a2d6.css",
-    "main.js": "/Portfolio/static/js/main.5910f604.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/hiking.jpg": "/Portfolio/static/media/hiking.5e12aa750a3b5bbe5747.jpg",
-    "static/media/capstone.jpg": "/Portfolio/static/media/capstone.6b0e8d361d09f1424b6c.jpg",
-    "static/media/gwc.jpg": "/Portfolio/static/media/gwc.facaaab5078932a97984.jpg",
-    "static/media/bowling.jpg": "/Portfolio/static/media/bowling.6f9d87c8f04226050573.jpg",
-    "static/media/giant.jpg": "/Portfolio/static/media/giant.ec4f0e48abe18f06d2dd.jpg",
-    "static/media/me.jpg": "/Portfolio/static/media/me.19f91d51f0c278c50197.jpg",
-    "static/media/rain.jpg": "/Portfolio/static/media/rain.8ad3a019f039fef57c00.jpg",
-    "static/media/escape.jpg": "/Portfolio/static/media/escape.57391dd08fa77655a025.jpg",
-    "static/media/butter.jpg": "/Portfolio/static/media/butter.3fe2f7dcf2b8514adc19.jpg",
-    "static/media/luna.png": "/Portfolio/static/media/luna.8dd31b7eb29e1165081d.png",
-    "index.html": "/Portfolio/index.html",
-    "main.f312a2d6.css.map": "/Portfolio/static/css/main.f312a2d6.css.map",
-    "main.5910f604.js.map": "/Portfolio/static/js/main.5910f604.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.6bc6579a.css",
+    "main.js": "/static/js/main.3bdf0adf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/capstone.jpg": "/static/media/capstone.1ce034a5645e1c0b40aa.jpg",
+    "static/media/hiking.jpg": "/static/media/hiking.5e12aa750a3b5bbe5747.jpg",
+    "static/media/gwc.jpg": "/static/media/gwc.facaaab5078932a97984.jpg",
+    "static/media/bowling.jpg": "/static/media/bowling.6f9d87c8f04226050573.jpg",
+    "static/media/giant.jpg": "/static/media/giant.ec4f0e48abe18f06d2dd.jpg",
+    "static/media/me.jpg": "/static/media/me.19f91d51f0c278c50197.jpg",
+    "static/media/rain.jpg": "/static/media/rain.8ad3a019f039fef57c00.jpg",
+    "static/media/escape.jpg": "/static/media/escape.57391dd08fa77655a025.jpg",
+    "static/media/butter.jpg": "/static/media/butter.3fe2f7dcf2b8514adc19.jpg",
+    "static/media/luna.png": "/static/media/luna.8dd31b7eb29e1165081d.png",
+    "index.html": "/index.html",
+    "main.6bc6579a.css.map": "/static/css/main.6bc6579a.css.map",
+    "main.3bdf0adf.js.map": "/static/js/main.3bdf0adf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f312a2d6.css",
-    "static/js/main.5910f604.js"
+    "static/css/main.6bc6579a.css",
+    "static/js/main.3bdf0adf.js"
   ]
 }
